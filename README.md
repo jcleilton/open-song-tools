@@ -15,5 +15,21 @@ Como estamos nos estágios iniciais, sugestões de arquitetura, escolha de tecno
 - Abra uma **Issue** para propor ideias ou relatar discussões.
 - Participe das diretrizes iniciais de desenvolvimento.
 
-## 📄 Licença
-Este projeto será distribuído de forma gratuita para a comunidade.
+## 📄 Licença e Apoio ao Projeto
+
+### 🆓 100% Gratuito e Open Source
+Este projeto é e sempre será **totalmente gratuito** para a comunidade. Ele é distribuído sob a licença livre **[Nome da Licença, ex: GNU General Public License v3.0 (GPLv3)]**, o que garante que você pode usar, estudar, modificar e redistribuir o software livremente, sem restrições de uso comercial ou pessoal.
+
+### 💖 Contribuições Financeiras e Doações
+O desenvolvimento, manutenção e evolução deste DAW dependem da colaboração da comunidade. 
+
+- **Não cobramos** por licenças, assinaturas, recursos "premium" ou atualizações.
+- Aceitamos e incentivamos **contribuições financeiras exclusivamente na forma de doações voluntárias**.
+- Todo o valor arrecadado será destinado aos custos de infraestrutura, hospedagem e incentivo aos desenvolvedores e mantenedores do projeto.
+
+Se você gosta do projeto e quer nos ajudar a continuar evoluindo, considere fazer uma doação:
+
+- [ ] **Chave PIX:** [jcleilton@gmail.com]
+- [ ] **Paypal:** [jcleilton@gmail.com]
+
+*A sua contribuição voluntária mantém o software livre e acessível para todos!*
