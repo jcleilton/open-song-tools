@@ -32,4 +32,4 @@ Se você gosta do projeto e quer nos ajudar a continuar evoluindo, considere faz
 - [ ] **Chave PIX:** [jcleilton@gmail.com]
 - [ ] **Paypal:** [jcleilton@gmail.com]
 
-*A sua contribuição voluntária mantém o software livre e acessível para todos!*
+*A sua contribuição voluntária mantém o software livre e acessível para todos!* 
