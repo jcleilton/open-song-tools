@@ -1,0 +1,17 @@
+open-song-tools/
+├── composeApp/
+│   ├── src/
+│   │   ├── commonMain/kotlin/org/opensongtools/app/
+│   │   │   ├── ui/
+│   │   │   │   ├── theme/          # Cores e Estilo inspirados no Logic Pro
+│   │   │   │   │   ├── Color.kt
+│   │   │   │   │   └── Theme.kt
+│   │   │   │   ├── components/     # Componentes modulares
+│   │   │   │   │   ├── ControlBar.kt       # Transport Bar + LCD Digital
+│   │   │   │   │   ├── TrackInspector.kt   # Channel Strip + Fader + FX
+│   │   │   │   │   ├── ArrangementView.kt  # Réguas, Regiões de Áudio e Playhead
+│   │   │   │   │   ├── MixerConsole.kt     # Mesa de Som
+│   │   │   │   │   └── PianoRoll.kt        # Editor MIDI
+│   │   │   │   └── MainDAWScreen.kt        # Layout Principal Integrado
+│   │   │   ├── model/             # Modelos de Dados (Track, Region, Note)
+│   │   │   └── state/             # Gerenciamento de Estado da DAW
